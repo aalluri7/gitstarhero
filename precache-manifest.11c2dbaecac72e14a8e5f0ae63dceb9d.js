@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/gitstarhero/static/css/main.c9037153.chunk.css"
   },
   {
-    "revision": "f7927b6b11712d47630fc9c991a82dc4",
+    "revision": "b574df634c2140615a795bf4a2fd5625",
     "url": "/gitstarhero/index.html"
   }
 ];
