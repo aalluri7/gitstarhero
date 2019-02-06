@@ -14,8 +14,9 @@ def hello():
     return 'Hello World!'
 
 def generateToken(code):
-    url = 'https://github.com/login/oauth/access_token?client_id='+client_id+'&client_secret='+client_secret+'&code='+code
-    return requests.post(url).text
+    url = 'https://github.com/login/oauth/access_token'
+    params = {'client_id': client_id, 'client_secret': client_secret, 'code': code}
+    return requests.post(url, params=params).text
 
 @app.route('/gitstarhero/callback')
 def callback():
