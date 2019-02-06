@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/GAE/lib
+/GAE/secrets.py
 /.pnp
 .pnp.js
 
