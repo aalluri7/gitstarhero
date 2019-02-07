@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/gitstarhero/static/js/runtime~main.bd226793.js"
   },
   {
-    "revision": "ec6fe87bbbfade513f6f",
-    "url": "/gitstarhero/static/js/main.ec6fe87b.chunk.js"
+    "revision": "0d467d585d716281b9ae",
+    "url": "/gitstarhero/static/js/main.0d467d58.chunk.js"
   },
   {
     "revision": "7e1e72005afa8e504967",
     "url": "/gitstarhero/static/js/1.7e1e7200.chunk.js"
   },
   {
-    "revision": "ec6fe87bbbfade513f6f",
+    "revision": "0d467d585d716281b9ae",
     "url": "/gitstarhero/static/css/main.326a0f69.chunk.css"
   },
   {
-    "revision": "56f79c8522187d2663aee948ce4ef88f",
+    "revision": "7ee930831d034957df116cb8a4dc3cdb",
     "url": "/gitstarhero/index.html"
   }
 ];
