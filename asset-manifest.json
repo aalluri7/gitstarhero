@@ -1,13 +1,13 @@
 {
   "main.css": "/gitstarhero/static/css/main.326a0f69.chunk.css",
-  "main.js": "/gitstarhero/static/js/main.c4b6ac78.chunk.js",
-  "main.js.map": "/gitstarhero/static/js/main.c4b6ac78.chunk.js.map",
-  "static/js/1.3b0fa21e.chunk.js": "/gitstarhero/static/js/1.3b0fa21e.chunk.js",
-  "static/js/1.3b0fa21e.chunk.js.map": "/gitstarhero/static/js/1.3b0fa21e.chunk.js.map",
+  "main.js": "/gitstarhero/static/js/main.ec6fe87b.chunk.js",
+  "main.js.map": "/gitstarhero/static/js/main.ec6fe87b.chunk.js.map",
+  "static/js/1.7e1e7200.chunk.js": "/gitstarhero/static/js/1.7e1e7200.chunk.js",
+  "static/js/1.7e1e7200.chunk.js.map": "/gitstarhero/static/js/1.7e1e7200.chunk.js.map",
   "runtime~main.js": "/gitstarhero/static/js/runtime~main.bd226793.js",
   "runtime~main.js.map": "/gitstarhero/static/js/runtime~main.bd226793.js.map",
   "static/css/main.326a0f69.chunk.css.map": "/gitstarhero/static/css/main.326a0f69.chunk.css.map",
   "index.html": "/gitstarhero/index.html",
-  "precache-manifest.829a9a722510c23720aadc3b27fd53b0.js": "/gitstarhero/precache-manifest.829a9a722510c23720aadc3b27fd53b0.js",
+  "precache-manifest.4b58873c6e55836926d56a6191881a49.js": "/gitstarhero/precache-manifest.4b58873c6e55836926d56a6191881a49.js",
   "service-worker.js": "/gitstarhero/service-worker.js"
 }
